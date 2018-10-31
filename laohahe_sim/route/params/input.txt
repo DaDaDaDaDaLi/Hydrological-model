@@ -1,0 +1,29 @@
+# INPUT FILE FOR THE OHIO BASIN.   
+# NAME OF FLOW DIRECTION FILE   
+D:\laohahe_sim\route\params\direction.txt 
+# NAME OF VELOCITY FILE   
+.false.   
+1.5   
+# NAME OF DIFF FILE   
+.false.   
+800   
+# NAME OF XMASK FILE   
+.true.   
+D:\laohahe_sim\route\params\xmask.txt
+# NAME OF FRACTION FILE   
+.true.   
+D:\laohahe_sim\route\params\fraction.txt
+# NAME OF STATION FILE   
+D:\laohahe_sim\route\params\stnloc.txt
+# PATH OF INPUT FILES AND PRECISION   
+D:\laohahe_sim\results\fluxes_   
+2   
+# PATH OF OUTPUT FILES   
+D:\laohahe_sim\route\default\
+# YEAR AND MONTH OF VIC OUTPUT TO ROUTE & ROUTED OUTPUT TO WRITE
+2010 1 2017 10
+2010 1 2017 10
+# NAME OF UNIT HYDROGRAPH FILE   
+D:\laohahe_sim\route\params\UH.all  
+
+
